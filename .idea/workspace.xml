@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54deb0a3-668b-4433-b3ff-81a70990b43d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Bilibili" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XqWviVjwJZnk21ImxG5gltbhZg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../czyj" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Scrapy\Bilibili" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.getPictures">
+    <configuration name="getPictures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getPictures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordCloud" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordCloud.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.getPictures" />
+        <item itemvalue="Python.wordCloud" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54deb0a3-668b-4433-b3ff-81a70990b43d" name="Default Changelist" comment="" />
+      <created>1581774338078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581774338078</updated>
+      <workItem from="1583383336869" duration="474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="133" y="0" width="812" height="680" key="#Inspections" timestamp="1583383648442">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state x="133" y="0" width="812" height="680" key="#Inspections/0.0.1080.680@0.0.1080.680" timestamp="1583383648442" />
+    <state x="276" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581844996469">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state x="276" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1080.680@0.0.1080.680" timestamp="1581844996469" />
+    <state x="221" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581912709639">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state x="221" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1080.680@0.0.1080.680" timestamp="1581912709639" />
+    <state x="322" y="96" key="FileChooserDialogImpl" timestamp="1582253093513">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state x="322" y="96" key="FileChooserDialogImpl/0.0.1080.680@0.0.1080.680" timestamp="1582253093513" />
+    <state width="1060" height="176" key="GridCell.Tab.0.bottom" timestamp="1582208532929">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state width="1060" height="176" key="GridCell.Tab.0.bottom/0.0.1080.680@0.0.1080.680" timestamp="1582208532929" />
+    <state width="1060" height="176" key="GridCell.Tab.0.center" timestamp="1582208532928">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state width="1060" height="176" key="GridCell.Tab.0.center/0.0.1080.680@0.0.1080.680" timestamp="1582208532928" />
+    <state width="1060" height="176" key="GridCell.Tab.0.left" timestamp="1582208532926">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state width="1060" height="176" key="GridCell.Tab.0.left/0.0.1080.680@0.0.1080.680" timestamp="1582208532926" />
+    <state width="1060" height="176" key="GridCell.Tab.0.right" timestamp="1582208532929">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state width="1060" height="176" key="GridCell.Tab.0.right/0.0.1080.680@0.0.1080.680" timestamp="1582208532929" />
+    <state x="43" y="0" key="SettingsEditor" timestamp="1583383813280">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state x="43" y="0" key="SettingsEditor/0.0.1080.680@0.0.1080.680" timestamp="1583383813280" />
+    <state width="546" height="346" key="XDebugger.FullValuePopup" timestamp="1581859272563">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state width="546" height="346" key="XDebugger.FullValuePopup/0.0.1080.680@0.0.1080.680" timestamp="1581859272563" />
+    <state x="0" y="45" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1581946079286">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state x="0" y="45" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1080.680@0.0.1080.680" timestamp="1581946079286" />
+    <state x="483" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1583383730321">
+      <screen x="0" y="0" width="1080" height="680" />
+    </state>
+    <state x="483" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1080.680@0.0.1080.680" timestamp="1583383730321" />
+  </component>
+</project>
